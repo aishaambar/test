@@ -9,7 +9,7 @@
  *
  */
 
-
+/*classes*/
 import java.io.InputStream;
 import javax.microedition.io.Connector;
 import javax.microedition.io.HttpConnection;
